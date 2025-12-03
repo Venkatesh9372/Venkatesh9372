@@ -1,40 +1,58 @@
-# 👋 Hi, I'm Venkatesh Vijay Karnure  
-🚀 Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning | Gen AI
+<h1 align="center">👋 Hi, I'm Venkatesh Vijay Karnure</h1>
+<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning | Gen AI</h3>
 
 ---
 
-## 🌟 About Me  
-I am a Data Analyst with hands-on experience in Python, SQL, Excel, and Power BI. I specialize in data cleaning, exploratory data analysis, and turning raw data into actionable insights.  
-I follow a simple, clean, and structured approach to solving problems with data.
+## 🚀 About Me  
+I’m a Data Analyst with hands-on experience in Python, SQL, Excel, and Power BI.  
+I enjoy working with datasets — cleaning, analyzing, and extracting insights that solve real business problems.  
+
+I follow a clean, simple, and structured approach to data, focusing on clarity, logic, and meaningful visuals.  
+Currently exploring Machine Learning and Gen AI to expand my analytical skills.
 
 ---
 
-## 🧰 Skills
+## 🧠 Skills & Tech Stack  
 
-| Category        | Tools / Skills                                         |
-|-----------------|---------------------------------------------------------|
-| **Programming**     | Python, SQL |
-| **Data Handling**   | Excel, Pandas, NumPy, Matplotlib, Seaborn |
-| **Visualization**   | Power BI, Tableau |
-| **Analytics**       | EDA, Data Cleaning, Statistics |
-| **Learning Next**   | Machine Learning, Predictive Modeling, DL, Gen AI |
-
----
-
-## 📂 Featured Projects
-
-- **EDA:** Scraping & Analyzing Restaurant Trends (EazyDiner Data)  
-- **PowerBI:** Telecom Customer Churn Analysis (Dashboard)  
-- **SQL:** World Wide Energy Consumption Analysis  
+**Programming:** Python, SQL  
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+**Visualization:** Power BI, Tableau  
+**Tools:** Excel, Jupyter Notebook, Git, GitHub  
+**Analytics:** EDA, Statistics, Data Cleaning  
+**Learning Next:** ML Algorithms, Predictive Modeling, Gen AI
 
 ---
 
-## 🌐 Connect With Me  
-- 🔗 **LinkedIn:** www.linkedin.com/in/venkateshk2003  
-- 📂 **GitHub:** Explore my repositories  
+## 📊 Featured Projects  
+#### 🔹 **📌 Restaurant Trends Analysis (EDA + Scraping)**  
+Analyzed restaurant data from EazyDiner using Python.  
+Performed data cleaning, EDA, visualization & insights to understand food trends.
+#### 🔹 **📌 Telecom Customer Churn Dashboard (Power BI)**  
+Built an interactive BI dashboard to analyze churn patterns and provide business insights.
+#### 🔹 **📌 Worldwide Energy Consumption (SQL)**  
+Used complex SQL queries to analyze global energy usage patterns and trends.
+
+---
+
+## 🧩 My Approach  
+✔ Clean and simple logic  
+✔ Clear visualization and storytelling  
+✔ Data-driven problem solving  
+✔ Consistent and structured workflow  
+
+---
+
+## 📬 Connect With Me  
+
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/venkateshk2003  
+- 💻 **GitHub:** https://github.com/Venkatesh9372  
 - ✉ **Email:** venkateshkarnure19@gmail.com  
----
-* I turn raw data into meaningful business insights through clean logic, clear visuals, and structured analysis *
+
 ---
 
-⭐ *Thanks for visiting my profile! Open to opportunities, collaboration, and learning.*  
+## ⭐ Fun Fact  
+I love transforming messy datasets into valuable insights that support smart business decisions.
+
+---
+
+<p align="center">⭐ If you like my work, consider giving my repositories a star!</p>
