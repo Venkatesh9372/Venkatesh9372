@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Venkatesh Vijay Karnure</h1>
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Statistics </h3>
+<h3 align="center">Aspiring Data Analyst | Python | EDA | SQL | Power BI | Statistics | Excel | </h3>
 
 ---
 
