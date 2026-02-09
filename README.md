@@ -44,7 +44,8 @@ Used complex SQL queries to analyze global energy usage patterns and trends.
 
 ## 📬 Connect With Me  
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/venkateshk2003  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/venkateshk2003
+- 🔗 **Portfolio:** https://venkatesh9372.github.io/my-journey-website/ 
 - 💻 **GitHub:** https://github.com/Venkatesh9372  
 - ✉ **Email:** venkateshkarnure19@gmail.com  
 
